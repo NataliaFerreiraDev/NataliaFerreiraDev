@@ -20,6 +20,6 @@
   <img align="center" alt="Natalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natalia-Bootstrap" height="30" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whiteg">
      
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nataliaferreiradev/nataliaferreiradev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
