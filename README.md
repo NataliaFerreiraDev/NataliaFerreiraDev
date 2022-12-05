@@ -1,7 +1,7 @@
 ### Olá, eu sou a Natalia Ferreira.
 
 - 🔭 Hoje estou trabalhando como full stack.
-- 🌱 Estou estudando Java, Spring, Micronaut, BFF (Back For Front), AWS, Angular, HTML, CSS e Bootstrap.
+- 🌱 Estou estudando Java, Spring, BFF (Back For Front), AWS, Angular, HTML, CSS e Bootstrap.
 
 </br>
 <div align="center">
