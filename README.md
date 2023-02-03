@@ -1,4 +1,4 @@
-### Olá, eu sou a Natalia Ferreira.
+### Olá, eu sou a Natalia Ferreira D`Angelo.
 
 - 🔭 Hoje estou trabalhando como full stack.
 - 🌱 Estou estudando Java, Spring, BFF (Back For Front), AWS, Angular, HTML, CSS e Bootstrap.
