@@ -1,6 +1,6 @@
 ### Olá, eu sou a Natalia Ferreira D`Angelo.
 
-- 🔭 Hoje estou trabalhando como full stack.
+- 🔭 Atualmente atuo com BFF (Back For Front) em Java, Spring, Microserviços, Testes Unitários, GitHub, Aws e Observabilidade (Prometheus, Grafana, Splunk).
 - 🌱 Estou estudando Java, Spring, BFF (Back For Front), AWS, Angular, HTML, CSS e Bootstrap.
 
 </br>
